@@ -3,3 +3,4 @@ scikit-learn
 langchain_groq
 tensorflow
 keras
+numpy
