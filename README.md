@@ -1,4 +1,4 @@
-AgroPredict – Crop Recommendation System
+# AgroPredict – Crop Recommendation System
 
 AgroPredict is a Machine Learning–based web application that recommends the most suitable crop based on soil nutrients and environmental conditions.
 
@@ -6,7 +6,7 @@ The system uses features like NPK values, temperature, humidity, pH, and rainfal
 
 The application is deployed using Streamlit, providing a simple and user-friendly interface for real-time crop prediction.
 
-Tech Stack
+## Tech Stack
 
 Python
 
@@ -18,7 +18,7 @@ Random Forest
 
 Streamlit
 
-Key Highlights
+## Key Highlights
 
 Data-driven crop recommendation
 
@@ -28,10 +28,10 @@ Simple web interface
 
 Built as part of MCA project at BHU
 
-Author
+## Author
 
 Himanshu Tiwari
 MCA, Banaras Hindu University
 
 
-Link --> https://crop-recommendation-system-dcamxgbudsa7dnbreaphdb.streamlit.app/
+# Live Demo --> https://crop-recommendation-system-dcamxgbudsa7dnbreaphdb.streamlit.app/
