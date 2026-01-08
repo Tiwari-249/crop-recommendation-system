@@ -26,12 +26,5 @@ High accuracy (~99%)
 
 Simple web interface
 
-Built as part of MCA project at BHU
 
-## Author
-
-Himanshu Tiwari
-MCA, Banaras Hindu University
-
-
-# Live Demo --> https://crop-recommendation-system-dcamxgbudsa7dnbreaphdb.streamlit.app/
+## Live Demo --> https://crop-recommendation-system-dcamxgbudsa7dnbreaphdb.streamlit.app/
